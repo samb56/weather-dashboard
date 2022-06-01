@@ -1,0 +1,17 @@
+:root{
+  background-color: #c2b2b4 ;
+  --purple: #6b4e71 ;
+  --gray: #3a4454 ;
+  --blue: #53687e ;
+  --pink: #f5dddd ;
+  --tan: #c2b2b4 ;
+  
+}
+
+h1{
+  text-align: center;
+  font-size: 3em;
+  background-color: var(--gray);
+  margin: 0px;
+  
+}
